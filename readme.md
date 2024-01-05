@@ -4,7 +4,7 @@ This project demonstrates the use of JavaScript and the DOM to manipulate the st
 
 ## :: How To View the Hosted Version ?? :innocent:
 
-You can view the live version of this project on [GitHub Pages](https://your-username.github.io/your-repo-name/).
+You can view the live version of this project on [GitHub Pages](https://pramadha19.github.io/dom_project/).
 
 ## :: Instructions :books:
 
